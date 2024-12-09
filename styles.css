@@ -4,7 +4,7 @@ body {
     height: 100%;
     width: 100%;
     background: #030c36;
-    font-family: "Josefin Sans", sans-serif;
+    font-family: cascadia code;
   }
 
 
@@ -309,6 +309,8 @@ body {
   }
   h2{
     font-family: cascadia code;
+    padding: 45px; 
+    white-space: nowrap;
     color: white;
     
     text-align: center;
